@@ -172,14 +172,10 @@
         <para>The following figure shows an
             overview of Cloud Databases Infrastructure: <informalfigure>
                 <mediaobject>
-                    <imageobject role="fo">
+                    <imageobject>
                         <imagedata
                             fileref="images/Cloud_DB_Infographic-1.svg"
                             contentwidth="6in"/>
-                    </imageobject>
-                    <imageobject role="html">
-                        <imagedata
-                            fileref="images/Cloud_DB_Infographic-1.png"/>
                     </imageobject>
                 </mediaobject>
             </informalfigure>
