@@ -108,7 +108,7 @@
 	  <socialIcons>1</socialIcons>
 	  <feedbackEmail>mike.asthalter@rackspace.com</feedbackEmail>
 	  <branding>rackspace</branding>
-	  <failOnValidationError>false</failOnValidationError>
+	  <!-- <failOnValidationError>false</failOnValidationError> -->
 	</configuration>
             </plugin>
         </plugins>
